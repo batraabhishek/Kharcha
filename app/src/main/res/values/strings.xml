@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Kharcha</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="label_expense">Expense</string>
+    <string name="label_amount">Amount</string>
+    <string name="auto_log">Auto log this expense</string>
+    <string name="auto_log_details">Auto Log is a context aware system that logs your recurring expenses automatically.\nFor example, Auto Log can log your daily Starbucks visit and record your coffee expense.</string>
+    <string name="add">save</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Icons Strings-->
+
+    <string name="icon_food">&#xe82c;</string>
+    <string name="icon_electricity">&#xe829;</string>
+    <string name="icon_internet">&#xe8c0;</string>
+    <string name="icon_trash">&#xe88c;</string>
+    <string name="icon_games">&#xe888;</string>
+    <string name="icon_movie">&#xe8d5;</string>
+    <string name="icon_music">&#xe887;</string>
+    <string name="icon_sports">&#xe8d9;</string>
+    <string name="icon_groceries">&#xe837;</string>
+    <string name="icon_electronics">&#xe8d7;</string>
+    <string name="icon_furniture">&#xe8bf;</string>
+    <string name="icon_taxi">&#xe83f;</string>
+    <string name="icon_fuel">&#xe8c3;</string>
+    <string name="icon_medical">&#xe85c;</string>
+    <string name="icon_clothes">&#xe83d;</string>
+    <string name="icon_other">&#xe83b;</string>
+    <string name="icon_rent">&#xe8bf;</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_walktrough">WalktroughActivity</string>
+    <string name="heading_location_permission">Add Location Permissions</string>
+    <string name="heading_data">1. Go to Settings->Location in your emulator.\n\n2. Tap on Mode, on Lollipop this is near the top of the list.\n\n3. Set the mode to set to Device Only, then set the mode to any other option, such as High accuracy.\n\n4. Tap Agree on the “Use Google’s location service?” popup.</string>
+    <string name="heading_starbucks">Do you buy Starbucks coffee everyday ?</string>
+    <string name="startbuck_details">Kharcha will automatically add your coffee cost into expenses, once you enter Starbucks.</string>
+    <string name="icon_coffee">&#xe82e;</string>
+    <string name="heading_commute">Do you commute daily ?</string>
+    <string name="commute_details">Kharcha will ask you to add the expense once you reach your destination. Obviously you can choose not to add, in case someone has given you a free ride.\n\nYou need to create expense once, and check auto log option.</string>
+
+</resources>
